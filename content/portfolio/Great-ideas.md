@@ -6,6 +6,7 @@ weight=2
 +++
 <!--more-->
 
-In all times in history - where do the good ideas come from? All the ideas, that made us who we are?.
+In all times in history - where do the good ideas come from? All the ideas, that made us who we are?
+I came across this thought when running in the university campus park. 
 
 ![](/img/portfolio/ideas2.jpg)
