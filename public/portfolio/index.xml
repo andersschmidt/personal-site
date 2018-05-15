@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on ANDERS S. SCHMIDT</title>
+    <link>/portfolio/</link>
+    <description>Recent content in Portfolios on ANDERS S. SCHMIDT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 May 2018 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research Dating: Who is the Good Supervisor?</title>
+      <link>/portfolio/good-supervisor/</link>
+      <pubDate>Tue, 08 May 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/portfolio/good-supervisor/</guid>
+      <description>&lt;p&gt;On May 8th I was invite to attend a panel debate on the question: &lt;em&gt;&amp;ldquo;Who is a good supervisor?&amp;rdquo;&lt;/em&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Great ideas - where do they come from?</title>
+      <link>/portfolio/great-ideas/</link>
+      <pubDate>Tue, 08 May 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/portfolio/great-ideas/</guid>
+      <description>&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
