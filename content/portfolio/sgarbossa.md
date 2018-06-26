@@ -1,8 +1,8 @@
 +++
 title="Sgarbossa: What is behind the criterias?"
 date=2018-05-08T21:13:14-05:00
-image="img/portfolio/ideas.jpg"
-weight=1.5
+image="img/portfolio/paper-presentation.jpg"
+weight=3
 +++
 <!--more-->
 

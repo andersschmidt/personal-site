@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/portfolio/sgarbossa/</loc>
-    <lastmod>2018-05-08T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/portfolio/the-hippo-oath/</loc>
     <lastmod>2018-05-08T21:13:14-05:00</lastmod>
   </url>
@@ -29,6 +24,11 @@
   
   <url>
     <loc>/portfolio/good-supervisor/</loc>
+    <lastmod>2018-05-08T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/portfolio/sgarbossa/</loc>
     <lastmod>2018-05-08T21:13:14-05:00</lastmod>
   </url>
   

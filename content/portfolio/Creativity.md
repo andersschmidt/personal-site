@@ -1,7 +1,7 @@
 +++
 title="Creativity and the sciences?"
 date=2018-05-08T21:13:14-05:00
-image="img/portfolio/ideas.jpg"
+image="img/portfolio/ideas2.jpg"
 weight=4
 +++
 <!--more-->
