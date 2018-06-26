@@ -1,11 +1,11 @@
 +++
 title="The Hippocratic Oath"
 date=2018-05-08T21:13:14-05:00
-image="img/anders.jpg"
+image="img/portfolio/hippocrates.jpg"
 weight=1
 +++
 
-On June 27th I confessed the Hippocratic Oath - and finally I am a Medical Doctor.
+Finally I am a Medical Doctor.
 But what about the oath for fair and independent research?
 
 <!--more-->
