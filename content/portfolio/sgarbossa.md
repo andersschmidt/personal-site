@@ -1,12 +1,12 @@
 +++
 title="Sgarbossa: What is behind the criterias?"
 date=2018-05-08T21:13:14-05:00
-#image="img/portfolio/ideas.jpg"
-weight=2
+image="img/portfolio/ideas.jpg"
+weight=1.5
 +++
 <!--more-->
 
-Diagnosis of myocardial iscaemia is difficult in patients with left-bundle branch block og paced ventricular rhtyhm. 
+Diagnosis of myocardial iscaemia is difficult in patients with left-bundle branch block og paced ventricular rhtyhm.
 First discribed by Elena Sgarbossa in 1996 the electrocardiografic:
 
 he original three criteria used to diagnose infarction in patients with LBBB are:
