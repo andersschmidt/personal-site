@@ -1,0 +1,135 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+%%% Use protect on footnotes to avoid problems with footnotes in titles
+\let\rmarkdownfootnote\footnote%
+\def\footnote{\protect\rmarkdownfootnote}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+
+% Create subtitle command for use in maketitle
+\newcommand{\subtitle}[1]{
+  \posttitle{
+    \begin{center}\large#1\end{center}
+    }
+}
+
+\setlength{\droptitle}{-2em}
+  \title{}
+  \pretitle{\vspace{\droptitle}}
+  \posttitle{}
+  \author{}
+  \preauthor{}\postauthor{}
+  \date{}
+  \predate{}\postdate{}
+
+
+\begin{document}
+
++++ image = ``img/portfolio/peace.png'' showonlyimage = false date =
+``2016-11-05T19:44:32+05:30'' title = ``Electrode position Trial'' draft
+= false weight = 3 +++
+
+``The Electrode position trial: Comparison of Anterior-posterior versus
+anterior-lateral patch position for cardioversion''
+
+Referat fra mødet den 29.06.2018.
+
+Til stede: Bo Løfgren (BL), Kasper Glerup (KG), Andi Albertsen (AA),
+Anders Schmidt (AS).
+
+\textbf{Studie-design og protokol}
+
+AD Hypotese/forskningsspørgsmål: Er Anterior-posterior eletrodeplacering
+superiort til anterior-lateral elektrodeplacering ved kardiovertering af
+atrieflimren? AD Design: Vi aftaler at gå videre med et to-arms
+randomiseret studie med forskellige elektrodeplacering, men samme
+energiprotokol, der er eskalerende, startende på 100 J og som går til
+360 J i begge grupper. AD Sample size: Kan med fordel beregnes på
+``first shock'' ved lav energi (100J), hvorved succes raten vil være
+lav. Dette giver mulighed for at afvise en nulhypotese med en forskel på
+\textgreater{}10\% med en fornuftigt antal patienter (ca. 300). AS
+udarbejder et udkast til en protokol (deadline 18.07.2018). Følger
+desuden op med udkast til Videnskabsetisk godkendelse,
+patientinformation, samtykke, database-udkast/RedCap
+(variable-oversigt), randomiseringsmodul (elektronisk), udkast til
+registrering på Clinical Trials
+
+\textbf{Formalia, akademisk kreditering}
+
+Vi aftaler at projektet har AA som sidste forfatter (Viborg initieret
+idé), AS er ``primus motor'' og 1. forfatter, KG er 2. forfatter, da han
+vil bidrage betydeligt i forhold til studiet drift i øvrigt, BL er 2.
+sidste forfatter/medforfatter. Øvrige lokale studie-aktive læger vil
+kunne komme på i forfatterblokken senere.
+
+\textbf{Økonomi}
+
+AA har allerede skaffet kr. 125.000 til projektet. AS udarbejder et
+udkast til budget, sender en fundsoversigt til AA og AA vil gå videre
+med at søge funding. Budgettet har vi aftalt skal indeholde posterne:
+VIP-løn, frikøb af senior studieansvarlig på de enkelte rekruterende
+enheder (dvs. 3 stk; tiltænkt Andi, Bo, og ``Mr.~X'') TAP-løn,
+projektsygeplejerske i x antal timer
+
+\textbf{Nyt investigator-møde} Vi aftaler at følge op med et nyt møde
+efter sommeren, fx. i Aarhus. AA og AS vil dog desuden mødes ``ad hoc''.
+
+
+\end{document}

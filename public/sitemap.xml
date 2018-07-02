@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/portfolio/engauge/</loc>
+    <lastmod>2018-05-08T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/portfolio/the-hippo-oath/</loc>
     <lastmod>2018-05-08T21:13:14-05:00</lastmod>
   </url>
@@ -33,7 +38,7 @@
   </url>
   
   <url>
-    <loc>/af-research/peace/</loc>
+    <loc>/af-research/electrode-position/</loc>
     <lastmod>2016-11-05T19:44:32+05:30</lastmod>
   </url>
   
